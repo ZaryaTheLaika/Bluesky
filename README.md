@@ -1,7 +1,7 @@
 # Bluesky
-Backup copy of tweets from the [Bluesky](https://bsky.app/profile/zaryathelaika.bsky.social) account.
+Backup copy of skeets from the [Bluesky](https://bsky.app/profile/zaryathelaika.bsky.social) account.
 
-Due to copyright concerns, replies to other people's posts are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Bluesky). Please use the [Wayback Machine](https://web.archive.org/web/*/https://bsky.app/profile/zaryathelaika.bsky.social*).
+Due to copyright concerns, replies to other people's skeets are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Bluesky). Please use the [Wayback Machine](https://web.archive.org/web/*/https://bsky.app/profile/zaryathelaika.bsky.social*).
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider contributing to the [puppy fund](https://paypal.me/bglamours) via PayPal.
 ## License and Copyright
