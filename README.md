@@ -1,5 +1,5 @@
 # Bluesky
-Backup copy of tweets from the [Bluesky]((https://bsky.app/profile/zaryathelaika.bsky.social) account.
+Backup copy of tweets from the [Bluesky](https://bsky.app/profile/zaryathelaika.bsky.social) account.
 
 Due to copyright concerns, replies to other people's posts are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Bluesky). Please use the [Wayback Machine](https://web.archive.org/web/*/https://bsky.app/profile/zaryathelaika.bsky.social*).
 ## Support
